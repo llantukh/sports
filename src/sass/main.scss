@@ -1,0 +1,83 @@
+@import "bulma";
+
+.page {
+  min-height: 100vh;
+  font-size: 25px;
+  text-align: center;
+  padding-top: 2%;
+  padding-bottom: 2%;
+}
+
+.title {
+  font-size: 30px;
+}
+
+.description {
+  font-size: 20px;
+}
+
+.horizontal {
+  height: 400px;
+}
+
+.vertical {
+  height: 500px;
+  width: 400px;
+}
+
+.bigger {
+  width: 43.5%;
+}
+
+
+.football {
+  background-image: url(http://sports.cbsimg.net/images/blogs/nike-football.jpg);
+  padding-bottom: 2%;
+  background-size: 178%;
+}
+
+.football-description {
+  font-size: 30px;
+  color: red;
+}
+
+.soccer {
+  background-image: url(http://50.115.112.100/~bosse/wp-content/uploads/2014/10/soccer-ball-in-net.jpg);
+  background-size: 120%;
+  color: white;
+}
+
+.basketball {
+  background-image: url(http://www.fbschool.org/_assets/images/basketball.jpg);
+  background-size: 135%;
+  color: white;
+}
+
+.tennis {
+  background-image: url(https://a248.e.akamai.net/secure.meetupstatic.com/photos/theme_body/a/c/7/f/full_6644159.jpeg);
+  background-size: 130%;
+  color: orange;
+}
+
+.baseball {
+  background-image: url(http://www.thecenteroregon.com/wp-content/uploads/2015/04/ball.jpg);
+  background-size: 120%;
+  color: white;
+}
+
+.track-field {
+  background-image: url(http://www.kansascity.com/sports/high-school/iorb2a/picture79098132/ALTERNATES/FREE_320/track%20and%20field);
+  background-size: 130%;
+  color: yellow;
+}
+
+.billiard {
+  background-image: url(http://wallpoper.com/images/00/25/81/96/billiards-tables_00258196.jpg);
+  color: white;
+}
+
+.swimming {
+  background-image: url(http://i2.wp.com/hamtana.com/images/img5/olympic-swimming-pool-top-view-design-inspiration-2.jpeg);
+  background-size: 120%;
+  color: yellow;
+}
