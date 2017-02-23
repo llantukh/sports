@@ -1,5 +1,9 @@
 @import "bulma";
 
+.container {
+  background-color: lightgrey;
+}
+
 .page {
   min-height: 100vh;
   font-size: 25px;
@@ -9,6 +13,7 @@
 }
 
 .title {
+  color: white;
   font-size: 30px;
 }
 
@@ -43,7 +48,7 @@
 
 .soccer {
   background-image: url(http://50.115.112.100/~bosse/wp-content/uploads/2014/10/soccer-ball-in-net.jpg);
-  background-size: 120%;
+  background-size: 140%;
   color: white;
 }
 
@@ -55,7 +60,7 @@
 
 .tennis {
   background-image: url(https://a248.e.akamai.net/secure.meetupstatic.com/photos/theme_body/a/c/7/f/full_6644159.jpeg);
-  background-size: 130%;
+  background-size: 140%;
   color: orange;
 }
 
